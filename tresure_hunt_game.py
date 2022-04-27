@@ -38,4 +38,3 @@ if choice1 == "left":
             print("Game Over")
 else:
     print("Game Over")
-  
